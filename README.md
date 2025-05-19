@@ -1,4 +1,4 @@
-# NF-e Services (DFE Exercise) [![Build and JaCoCo Coverage](https://github.com/luiz1996/nfe-services/actions/workflows/build-and-coverage.yml/badge.svg)](https://github.com/luiz1996/nfe-services/actions/workflows/build-and-coverage.yml)
+# NF-e Services (DFE Exercise) [![Build and JaCoCo Coverage](https://github.com/Luiz1996/nfe-services/actions/workflows/build-and-coverage.yml/badge.svg)](https://github.com/Luiz1996/nfe-services/actions/workflows/build-and-coverage.yml)
 This is the microservice for NF-e Upload.
 
 ### Main Technology Stack
